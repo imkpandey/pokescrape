@@ -1,5 +1,5 @@
 # PokeScrape  
-Welccome to my Pokemon Database Scraper.  
+Welcome to my Pokemon Database Scraper.  
 
 ### Objective  
 
